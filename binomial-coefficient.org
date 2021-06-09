@@ -1,0 +1,3 @@
+#+TITLE: Binomial coefficient
+#+AUTHOR: Seshal Jain
+https://practice.geeksforgeeks.org/problems/ncr1019/1

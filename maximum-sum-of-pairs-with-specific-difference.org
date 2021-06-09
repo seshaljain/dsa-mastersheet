@@ -1,0 +1,3 @@
+#+TITLE: Maximum sum of pairs with specific difference
+#+AUTHOR: Seshal Jain
+https://practice.geeksforgeeks.org/problems/pairs-with-specific-difference/0

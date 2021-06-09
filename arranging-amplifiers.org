@@ -1,0 +1,3 @@
+#+TITLE: Arranging amplifiers
+#+AUTHOR: Seshal Jain
+https://www.spoj.com/problems/ARRANGE/

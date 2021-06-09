@@ -1,0 +1,3 @@
+#+TITLE: Find next greater number with same set of digits
+#+AUTHOR: Seshal Jain
+https://practice.geeksforgeeks.org/problems/next-permutation/0

@@ -1,0 +1,3 @@
+#+TITLE: Given a sequence of words, print all anagrams together
+#+AUTHOR: Seshal Jain
+https://practice.geeksforgeeks.org/problems/k-anagrams-1/0

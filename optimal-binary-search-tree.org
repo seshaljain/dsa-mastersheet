@@ -1,0 +1,3 @@
+#+TITLE: Optimal binary search tree
+#+AUTHOR: Seshal Jain
+https://www.geeksforgeeks.org/optimal-binary-search-tree-dp-24/

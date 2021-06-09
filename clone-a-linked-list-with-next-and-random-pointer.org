@@ -1,0 +1,3 @@
+#+TITLE: Clone a linked list with next and random pointer
+#+AUTHOR: Seshal Jain
+https://practice.geeksforgeeks.org/problems/clone-a-linked-list-with-next-and-random-pointer/1

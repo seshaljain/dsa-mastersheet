@@ -1,0 +1,3 @@
+#+TITLE: Die hard
+#+AUTHOR: Seshal Jain
+https://www.spoj.com/problems/DIEHARD/

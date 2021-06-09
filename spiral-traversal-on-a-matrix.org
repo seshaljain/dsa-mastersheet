@@ -1,0 +1,3 @@
+#+TITLE: Spiral traversal on a matrix
+#+AUTHOR: Seshal Jain
+https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix/0

@@ -1,0 +1,3 @@
+#+TITLE: Aggressive cows
+#+AUTHOR: Seshal Jain
+https://www.spoj.com/problems/AGGRCOW/

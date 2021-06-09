@@ -1,0 +1,23 @@
+#+TITLE: Find majority element
+#+AUTHOR: Seshal Jain
+https://practice.geeksforgeeks.org/problems/majority-element/0
+
+Moore's voting algorithm
+#+begin_src cpp
+int majorityElement(vector<int> &nums) {
+  int major = nums[0], count = 1;
+
+  for (int i = 1; i < nums.size(); i++) {
+    if (major == nums[i]) {
+      count++;
+    } else if (count == 0) {
+      count++;
+      major = nums[i];
+    } else {
+      count--;
+    }
+  }
+
+  return major;
+}
+#+end_src

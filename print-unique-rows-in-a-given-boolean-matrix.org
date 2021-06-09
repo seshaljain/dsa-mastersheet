@@ -1,0 +1,3 @@
+#+TITLE: Print unique rows in a given boolean matrix
+#+AUTHOR: Seshal Jain
+https://practice.geeksforgeeks.org/problems/unique-rows-in-boolean-matrix/1

@@ -1,0 +1,3 @@
+#+TITLE: Calculate square of a number without using *, / and pow()
+#+AUTHOR: Seshal Jain
+https://www.geeksforgeeks.org/calculate-square-of-a-number-without-using-and-pow/

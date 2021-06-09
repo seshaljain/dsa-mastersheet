@@ -1,0 +1,3 @@
+#+TITLE: Find factorial of a large number
+#+AUTHOR: Seshal Jain
+https://practice.geeksforgeeks.org/problems/factorials-of-large-numbers/0

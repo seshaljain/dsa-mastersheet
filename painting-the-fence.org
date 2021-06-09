@@ -1,0 +1,3 @@
+#+TITLE: Painting the fence
+#+AUTHOR: Seshal Jain
+https://practice.geeksforgeeks.org/problems/painting-the-fence3727/1

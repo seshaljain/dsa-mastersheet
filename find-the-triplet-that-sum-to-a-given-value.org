@@ -1,0 +1,3 @@
+#+TITLE: Find the triplet that sum to a given value
+#+AUTHOR: Seshal Jain
+https://practice.geeksforgeeks.org/problems/triplet-sum-in-array/0

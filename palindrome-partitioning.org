@@ -1,0 +1,3 @@
+#+TITLE: Palindrome partitioning
+#+AUTHOR: Seshal Jain
+https://practice.geeksforgeeks.org/problems/palindromic-patitioning4845/1

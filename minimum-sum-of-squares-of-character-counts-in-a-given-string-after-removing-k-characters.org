@@ -1,0 +1,3 @@
+#+TITLE: Minimum sum of squares of character counts in a given string after removing K characters
+#+AUTHOR: Seshal Jain
+https://practice.geeksforgeeks.org/problems/game-with-string/0

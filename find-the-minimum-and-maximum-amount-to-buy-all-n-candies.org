@@ -1,0 +1,3 @@
+#+TITLE: Find the minimum and maximum amount to buy all N candies
+#+AUTHOR: Seshal Jain
+https://practice.geeksforgeeks.org/problems/shop-in-candy-store/0

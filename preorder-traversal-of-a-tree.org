@@ -1,0 +1,46 @@
+#+TITLE: Preorder traversal of a tree
+#+AUTHOR: Seshal Jain
+https://www.techiedelight.com/preorder-tree-traversal-iterative-recursive/
+
+Root, Left, Right
+
+Recursive
+#+begin_src cpp
+void preorder(Node *root) {
+  if (root == nullptr) {
+    return;
+  }
+
+  cout << root->data << " ";
+
+  preorder(root->left);
+
+  preorder(root->right);
+}
+#+end_src
+
+Iterative: use stack
+#+begin_src cpp
+void preorderIterative(Node *root) {
+  if (root == nullptr)
+    return;
+
+  stack<Node *> stack;
+  stack.push(root);
+
+  while (!stack.empty()) {
+    Node *curr = stack.top();
+    stack.pop();
+
+    cout << curr->data << " ";
+
+    if (curr->right) {
+      stack.push(curr->right);
+    }
+
+    if (curr->left) {
+      stack.push(curr->left);
+    }
+  }
+}
+#+end_src

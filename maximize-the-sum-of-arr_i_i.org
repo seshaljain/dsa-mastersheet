@@ -1,0 +1,3 @@
+#+TITLE: Maximize the sum of arr[i]*i
+#+AUTHOR: Seshal Jain
+https://practice.geeksforgeeks.org/problems/maximize-arrii-of-an-array/0

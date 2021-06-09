@@ -1,0 +1,3 @@
+#+TITLE: Product array puzzle
+#+AUTHOR: Seshal Jain
+https://practice.geeksforgeeks.org/problems/product-array-puzzle/0

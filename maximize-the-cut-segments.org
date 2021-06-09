@@ -1,0 +1,3 @@
+#+TITLE: Maximize the cut segments
+#+AUTHOR: Seshal Jain
+https://practice.geeksforgeeks.org/problems/cutted-segments/0

@@ -1,0 +1,3 @@
+#+TITLE: Count all palindromic subsequence in a given string
+#+AUTHOR: Seshal Jain
+https://practice.geeksforgeeks.org/problems/count-palindromic-subsequences/1

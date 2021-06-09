@@ -1,0 +1,3 @@
+#+TITLE: Maximize array sum after K negations
+#+AUTHOR: Seshal Jain
+https://practice.geeksforgeeks.org/problems/maximize-sum-after-k-negations/0

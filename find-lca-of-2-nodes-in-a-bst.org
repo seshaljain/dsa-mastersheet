@@ -1,0 +1,3 @@
+#+TITLE: Find lca of 2 nodes in a BST
+#+AUTHOR: Seshal Jain
+https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-bst/1

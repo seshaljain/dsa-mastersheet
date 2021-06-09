@@ -1,0 +1,3 @@
+#+TITLE: Find the Kth permutation sequence of first N natural numbers
+#+AUTHOR: Seshal Jain
+https://www.geeksforgeeks.org/find-the-k-th-permutation-sequence-of-first-n-natural-numbers/

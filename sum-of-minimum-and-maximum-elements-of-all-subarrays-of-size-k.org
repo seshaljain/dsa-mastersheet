@@ -1,0 +1,3 @@
+#+TITLE: Sum of minimum and maximum elements of all subarrays of size K
+#+AUTHOR: Seshal Jain
+https://www.geeksforgeeks.org/sum-minimum-maximum-elements-subarrays-size-k/

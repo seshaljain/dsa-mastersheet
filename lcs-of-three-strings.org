@@ -1,0 +1,3 @@
+#+TITLE: LCS of three strings
+#+AUTHOR: Seshal Jain
+https://practice.geeksforgeeks.org/problems/lcs-of-three-strings/0

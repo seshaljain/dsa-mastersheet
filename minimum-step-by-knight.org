@@ -1,0 +1,3 @@
+#+TITLE: Minimum step by knight
+#+AUTHOR: Seshal Jain
+https://practice.geeksforgeeks.org/problems/steps-by-knight/0

@@ -1,0 +1,3 @@
+#+TITLE: Minimum cost to fill given weight in a bag
+#+AUTHOR: Seshal Jain
+https://practice.geeksforgeeks.org/problems/minimum-cost-to-fill-given-weight-in-a-bag1956/1

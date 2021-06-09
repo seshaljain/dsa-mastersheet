@@ -1,0 +1,3 @@
+#+TITLE: Sort a stack using recursion
+#+AUTHOR: Seshal Jain
+https://practice.geeksforgeeks.org/problems/sort-a-stack/1

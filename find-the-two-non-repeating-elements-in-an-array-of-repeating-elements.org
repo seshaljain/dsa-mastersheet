@@ -1,0 +1,3 @@
+#+TITLE: Find the two non-repeating elements in an array of repeating elements
+#+AUTHOR: Seshal Jain
+https://practice.geeksforgeeks.org/problems/finding-the-numbers0215/1

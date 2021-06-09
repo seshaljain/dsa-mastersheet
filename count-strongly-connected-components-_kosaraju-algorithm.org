@@ -1,0 +1,3 @@
+#+TITLE: Count strongly connected components (Kosaraju algorithm)
+#+AUTHOR: Seshal Jain
+https://practice.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-algo/1

@@ -1,0 +1,3 @@
+#+TITLE: Left view of a tree
+#+AUTHOR: Seshal Jain
+https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1

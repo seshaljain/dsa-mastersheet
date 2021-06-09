@@ -1,0 +1,3 @@
+#+TITLE: Implement stack using deque
+#+AUTHOR: Seshal Jain
+https://www.geeksforgeeks.org/implement-stack-queue-using-deque/

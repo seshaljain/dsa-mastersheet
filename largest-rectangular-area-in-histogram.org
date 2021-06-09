@@ -1,0 +1,3 @@
+#+TITLE: Largest rectangular area in histogram
+#+AUTHOR: Seshal Jain
+https://practice.geeksforgeeks.org/problems/maximum-rectangular-area-in-a-histogram/0

@@ -1,0 +1,3 @@
+#+TITLE: Tree isomorphism
+#+AUTHOR: Seshal Jain
+https://practice.geeksforgeeks.org/problems/check-if-tree-is-isomorphic/1

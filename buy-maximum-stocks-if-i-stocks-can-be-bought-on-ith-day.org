@@ -1,0 +1,3 @@
+#+TITLE: Buy maximum stocks if I stocks can be bought on Ith day
+#+AUTHOR: Seshal Jain
+https://www.geeksforgeeks.org/buy-maximum-stocks-stocks-can-bought-th-day/

@@ -1,0 +1,3 @@
+#+TITLE: Median of 2 sorted arrays of equal size
+#+AUTHOR: Seshal Jain
+https://practice.geeksforgeeks.org/problems/find-the-median0527/1

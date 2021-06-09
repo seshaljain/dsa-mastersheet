@@ -1,0 +1,3 @@
+#+TITLE: Minimum sum of two numbers formed from digits of an array
+#+AUTHOR: Seshal Jain
+https://practice.geeksforgeeks.org/problems/minimum-sum4058/1

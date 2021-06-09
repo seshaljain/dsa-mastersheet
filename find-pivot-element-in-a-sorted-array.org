@@ -1,0 +1,5 @@
+#+TITLE: Find pivot element in a sorted array
+#+AUTHOR: Seshal Jain
+http://theoryofprogramming.com/2017/12/16/find-pivot-element-sorted-rotated-array/
+
+Binary search, mid + 1 % n, mid - 1 + n % n

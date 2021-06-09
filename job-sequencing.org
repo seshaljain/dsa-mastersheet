@@ -1,0 +1,3 @@
+#+TITLE: Job sequencing
+#+AUTHOR: Seshal Jain
+https://practice.geeksforgeeks.org/problems/job-sequencing-problem/0

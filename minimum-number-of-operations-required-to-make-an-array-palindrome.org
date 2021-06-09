@@ -1,0 +1,3 @@
+#+TITLE: Minimum number of operations required to make an array palindrome
+#+AUTHOR: Seshal Jain
+https://practice.geeksforgeeks.org/problems/palindromic-array/0

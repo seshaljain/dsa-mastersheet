@@ -1,0 +1,3 @@
+#+TITLE: Dijkstra algo
+#+AUTHOR: Seshal Jain
+https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/

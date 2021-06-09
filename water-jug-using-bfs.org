@@ -1,0 +1,3 @@
+#+TITLE: Water jug using BFS
+#+AUTHOR: Seshal Jain
+https://www.geeksforgeeks.org/water-jug-problem-using-bfs/

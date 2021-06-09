@@ -1,0 +1,3 @@
+#+TITLE: Intersection point of two linked lists
+#+AUTHOR: Seshal Jain
+https://practice.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1

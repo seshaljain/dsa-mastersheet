@@ -1,0 +1,3 @@
+#+TITLE: Find smallest number with given number of digits and sum of digits
+#+AUTHOR: Seshal Jain
+https://practice.geeksforgeeks.org/problems/smallest-number5829/1

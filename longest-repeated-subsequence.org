@@ -1,0 +1,3 @@
+#+TITLE: Longest repeated subsequence
+#+AUTHOR: Seshal Jain
+https://practice.geeksforgeeks.org/problems/longest-repeating-subsequence/0

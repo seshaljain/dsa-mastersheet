@@ -1,0 +1,3 @@
+#+TITLE: Count inversion
+#+AUTHOR: Seshal Jain
+https://practice.geeksforgeeks.org/problems/inversion-of-array/0

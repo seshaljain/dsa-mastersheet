@@ -1,0 +1,3 @@
+#+TITLE: Egg dropping
+#+AUTHOR: Seshal Jain
+https://practice.geeksforgeeks.org/problems/egg-dropping-puzzle/0

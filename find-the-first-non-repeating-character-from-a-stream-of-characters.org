@@ -1,0 +1,3 @@
+#+TITLE: Find the first non-repeating character from a stream of characters
+#+AUTHOR: Seshal Jain
+https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream/0

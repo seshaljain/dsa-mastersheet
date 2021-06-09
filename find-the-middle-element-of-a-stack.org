@@ -1,0 +1,3 @@
+#+TITLE: Find the middle element of a stack
+#+AUTHOR: Seshal Jain
+https://www.geeksforgeeks.org/design-a-stack-with-find-middle-operation/

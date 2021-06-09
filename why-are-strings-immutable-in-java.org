@@ -1,0 +1,4 @@
+#+TITLE: Why are strings immutable in Java?
+#+AUTHOR: Seshal Jain
+
+Java uses string literals mostly for memory security. Better alter copies of strings than alter main references in memory.

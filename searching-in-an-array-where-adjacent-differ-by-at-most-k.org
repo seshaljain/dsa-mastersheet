@@ -1,0 +1,18 @@
+#+TITLE: Searching in an array where adjacent differ by at most K
+#+AUTHOR: Seshal Jain
+https://www.geeksforgeeks.org/searching-array-adjacent-differ-k/
+
+#+begin_src cpp
+int search(int arr[], int n, int x) {
+  int i = 0;
+  while (i < n) {
+    if (arr[i] == x)
+      return i;
+
+    i += max(1, abs(arr[i] - x) / k);
+  }
+
+  cout << "Number not present";
+  return -1;
+}
+#+end_src

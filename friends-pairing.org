@@ -1,0 +1,3 @@
+#+TITLE: Friends pairing
+#+AUTHOR: Seshal Jain
+https://practice.geeksforgeeks.org/problems/friends-pairing-problem5425/1

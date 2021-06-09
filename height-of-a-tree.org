@@ -1,0 +1,12 @@
+#+TITLE: Height of a tree
+#+AUTHOR: Seshal Jain
+https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1
+
+#+begin_src cpp
+int maxDepth(TreeNode *root) {
+  if (root == nullptr)
+    return 0;
+
+  return 1 + max(maxDepth(root->left), maxDepth(root->right));
+}
+#+end_src

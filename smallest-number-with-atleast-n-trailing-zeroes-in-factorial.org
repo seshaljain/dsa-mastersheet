@@ -1,0 +1,3 @@
+#+TITLE: Smallest number with atleast N trailing zeroes in factorial
+#+AUTHOR: Seshal Jain
+https://practice.geeksforgeeks.org/problems/smallest-factorial-number5929/1

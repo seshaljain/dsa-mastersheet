@@ -1,0 +1,3 @@
+#+TITLE: Minimum number of swaps required to sort the array
+#+AUTHOR: Seshal Jain
+https://practice.geeksforgeeks.org/problems/minimum-swaps/1

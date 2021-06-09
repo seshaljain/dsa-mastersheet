@@ -1,0 +1,15 @@
+#+TITLE: Count set bits in an integer
+#+AUTHOR: Seshal Jain
+https://practice.geeksforgeeks.org/problems/set-bits0143/1
+
+#+begin_src cpp
+int setBits(int N) {
+  int bCount = 0;
+  while (N) {
+    N &= (N - 1);
+    bCount++;
+  }
+
+  return bCount;
+}
+#+end_src

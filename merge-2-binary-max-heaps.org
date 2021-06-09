@@ -1,0 +1,3 @@
+#+TITLE: Merge 2 binary max heaps
+#+AUTHOR: Seshal Jain
+https://practice.geeksforgeeks.org/problems/merge-two-binary-max-heap/0

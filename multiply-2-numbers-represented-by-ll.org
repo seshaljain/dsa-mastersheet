@@ -1,0 +1,3 @@
+#+TITLE: Multiply 2 numbers represented by ll
+#+AUTHOR: Seshal Jain
+https://practice.geeksforgeeks.org/problems/multiply-two-linked-lists/1

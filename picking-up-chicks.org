@@ -1,0 +1,3 @@
+#+TITLE: Picking up chicks
+#+AUTHOR: Seshal Jain
+https://www.spoj.com/problems/GCJ101BB/

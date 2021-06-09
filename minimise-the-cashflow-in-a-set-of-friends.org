@@ -1,0 +1,3 @@
+#+TITLE: Minimise the cashflow in a set of friends
+#+AUTHOR: Seshal Jain
+https://www.geeksforgeeks.org/minimize-cash-flow-among-given-set-friends-borrowed-money/

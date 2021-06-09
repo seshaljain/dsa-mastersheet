@@ -1,0 +1,3 @@
+#+TITLE: Merge sort for linked lists
+#+AUTHOR: Seshal Jain
+https://practice.geeksforgeeks.org/problems/sort-a-linked-list/1

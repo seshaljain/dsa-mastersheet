@@ -1,0 +1,3 @@
+#+TITLE: Implement stack using queue
+#+AUTHOR: Seshal Jain
+https://practice.geeksforgeeks.org/problems/stack-using-two-queues/1

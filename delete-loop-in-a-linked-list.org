@@ -1,0 +1,3 @@
+#+TITLE: Delete loop in a linked list
+#+AUTHOR: Seshal Jain
+https://practice.geeksforgeeks.org/problems/remove-loop-in-linked-list/1

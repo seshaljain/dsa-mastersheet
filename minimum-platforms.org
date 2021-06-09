@@ -1,0 +1,3 @@
+#+TITLE: Minimum platforms
+#+AUTHOR: Seshal Jain
+https://practice.geeksforgeeks.org/problems/minimum-platforms/0

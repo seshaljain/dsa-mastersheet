@@ -1,0 +1,3 @@
+#+TITLE: Search a word in a 2D grid of characters
+#+AUTHOR: Seshal Jain
+https://practice.geeksforgeeks.org/problems/find-the-string-in-grid/0

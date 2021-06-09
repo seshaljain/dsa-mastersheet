@@ -1,0 +1,3 @@
+#+TITLE: Partition a set into K subsets with equal sum
+#+AUTHOR: Seshal Jain
+https://practice.geeksforgeeks.org/problems/partition-array-to-k-subsets/1

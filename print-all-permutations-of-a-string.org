@@ -1,0 +1,3 @@
+#+TITLE: Print all permutations of a string
+#+AUTHOR: Seshal Jain
+https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string/0

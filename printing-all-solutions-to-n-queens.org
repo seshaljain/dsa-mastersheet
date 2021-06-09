@@ -1,0 +1,3 @@
+#+TITLE: Printing all solutions to N-queens
+#+AUTHOR: Seshal Jain
+https://www.geeksforgeeks.org/printing-solutions-n-queen-problem/

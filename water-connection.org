@@ -1,0 +1,3 @@
+#+TITLE: Water connection
+#+AUTHOR: Seshal Jain
+https://practice.geeksforgeeks.org/problems/water-connection-problem/0

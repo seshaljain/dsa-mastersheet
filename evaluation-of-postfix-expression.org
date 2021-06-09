@@ -1,0 +1,3 @@
+#+TITLE: Evaluation of postfix expression
+#+AUTHOR: Seshal Jain
+https://practice.geeksforgeeks.org/problems/evaluation-of-postfix-expression/0

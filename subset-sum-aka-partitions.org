@@ -1,0 +1,3 @@
+#+TITLE: Subset sum aka Partitions
+#+AUTHOR: Seshal Jain
+https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1

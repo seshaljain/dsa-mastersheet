@@ -1,0 +1,3 @@
+#+TITLE: First negative integer in every window of size K
+#+AUTHOR: Seshal Jain
+https://practice.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k/0

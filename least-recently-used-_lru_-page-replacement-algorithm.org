@@ -1,0 +1,3 @@
+#+TITLE: Least Recently Used (LRU) page replacement algorithm
+#+AUTHOR: Seshal Jain
+https://practice.geeksforgeeks.org/problems/page-faults-in-lru/0

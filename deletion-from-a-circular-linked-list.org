@@ -1,0 +1,3 @@
+#+TITLE: Deletion from a circular linked list
+#+AUTHOR: Seshal Jain
+https://www.geeksforgeeks.org/deletion-circular-linked-list/

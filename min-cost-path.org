@@ -1,0 +1,3 @@
+#+TITLE: Min cost path
+#+AUTHOR: Seshal Jain
+https://practice.geeksforgeeks.org/problems/path-in-matrix3805/1

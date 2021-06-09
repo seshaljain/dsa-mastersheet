@@ -1,0 +1,3 @@
+#+TITLE: Huffman coding
+#+AUTHOR: Seshal Jain
+https://practice.geeksforgeeks.org/problems/huffman-encoding/0

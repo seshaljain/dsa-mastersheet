@@ -1,0 +1,3 @@
+#+TITLE: Count balanced binary trees of height h
+#+AUTHOR: Seshal Jain
+https://practice.geeksforgeeks.org/problems/bbt-counter/0

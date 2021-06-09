@@ -1,0 +1,18 @@
+#+TITLE: Cyclically rotate an array by one
+#+AUTHOR: Seshal Jain
+https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one/0
+
+Also works for rotation by N elements
+#+begin_src cpp
+void reverseArr(int arr[], int r) {
+  for (int i = 0; i < r / 2; i++) {
+    int tmp = arr[i];
+    arr[i] = arr[r - i - 1];
+    arr[r - i - 1] = tmp;
+  }
+}
+void rotate(int arr[], int n) {
+  reverseArr(arr, n - 1);
+  reverseArr(arr, n);
+}
+#+end_src

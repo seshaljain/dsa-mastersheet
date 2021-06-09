@@ -1,0 +1,3 @@
+#+TITLE: Sort a K sorted doubly linked list
+#+AUTHOR: Seshal Jain
+https://www.geeksforgeeks.org/sort-k-sorted-doubly-linked-list/

@@ -1,0 +1,50 @@
+#+TITLE: Fractional knapsack
+#+AUTHOR: Seshal Jain
+https://practice.geeksforgeeks.org/problems/fractional-knapsack/0
+
+Left, Right, Root
+
+Recursive
+#+begin_src cpp
+void postorder(Node *root) {
+  if (root == nullptr) {
+    return;
+  }
+
+  postorder(root->left);
+
+  postorder(root->right);
+
+  cout << root->data << " ";
+}
+#+end_src
+
+Iterative: use stack
+#+begin_src cpp
+void postorderIterative(Node *root) {
+  stack<Node *> s;
+  s.push(root);
+
+  stack<int> out;
+
+  while (!s.empty()) {
+    Node *curr = s.top();
+    s.pop();
+
+    out.push(curr->data);
+
+    if (curr->left) {
+      s.push(curr->left);
+    }
+
+    if (curr->right) {
+      s.push(curr->right);
+    }
+  }
+
+  while (!out.empty()) {
+    cout << out.top() << " ";
+    out.pop();
+  }
+}
+#+end_src

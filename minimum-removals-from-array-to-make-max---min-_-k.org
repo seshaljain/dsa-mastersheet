@@ -1,0 +1,3 @@
+#+TITLE: Minimum removals from array to make max - min <= K
+#+AUTHOR: Seshal Jain
+https://www.geeksforgeeks.org/minimum-removals-array-make-max-min-k/
