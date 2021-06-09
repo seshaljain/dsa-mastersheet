@@ -1,3 +1,4 @@
 #+TITLE: Kth largest element in an array
 #+AUTHOR: Seshal Jain
+#+TAGS[]: heap
 https://practice.geeksforgeeks.org/problems/k-largest-elements4206/1

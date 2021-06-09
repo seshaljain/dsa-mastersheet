@@ -1,3 +1,4 @@
 #+TITLE: Boolean parenthesization
 #+AUTHOR: Seshal Jain
+#+TAGS[]: dp
 https://practice.geeksforgeeks.org/problems/boolean-parenthesization/0

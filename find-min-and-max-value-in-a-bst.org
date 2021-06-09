@@ -1,3 +1,4 @@
 #+TITLE: Find min and max value in a BST
 #+AUTHOR: Seshal Jain
+#+TAGS[]: bst
 https://practice.geeksforgeeks.org/problems/minimum-element-in-bst/1

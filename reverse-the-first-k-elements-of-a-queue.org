@@ -1,3 +1,4 @@
 #+TITLE: Reverse the first K elements of a queue
 #+AUTHOR: Seshal Jain
+#+TAGS[]: st_q
 https://practice.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1

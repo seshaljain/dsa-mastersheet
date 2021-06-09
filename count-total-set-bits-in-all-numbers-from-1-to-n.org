@@ -1,3 +1,4 @@
 #+TITLE: Count total set bits in all numbers from 1 to N
 #+AUTHOR: Seshal Jain
+#+TAGS[]: bit
 https://practice.geeksforgeeks.org/problems/count-total-set-bits/0

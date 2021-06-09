@@ -1,3 +1,4 @@
 #+TITLE: Minimum number of swaps required to sort the array
 #+AUTHOR: Seshal Jain
+#+TAGS[]: search_sort
 https://practice.geeksforgeeks.org/problems/minimum-swaps/1

@@ -1,3 +1,4 @@
 #+TITLE: Find median in a row wise sorted matrix
 #+AUTHOR: Seshal Jain
+#+TAGS[]: matrix
 https://practice.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1

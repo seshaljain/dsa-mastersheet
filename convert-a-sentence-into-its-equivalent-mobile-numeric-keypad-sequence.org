@@ -1,3 +1,4 @@
 #+TITLE: Convert a sentence into its equivalent mobile numeric keypad sequence
 #+AUTHOR: Seshal Jain
+#+TAGS[]: string
 https://www.geeksforgeeks.org/convert-sentence-equivalent-mobile-numeric-keypad-sequence/

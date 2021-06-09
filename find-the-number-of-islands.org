@@ -1,3 +1,4 @@
 #+TITLE: Find the number of islands
 #+AUTHOR: Seshal Jain
+#+TAGS[]: graph
 https://practice.geeksforgeeks.org/problems/find-the-number-of-islands/1

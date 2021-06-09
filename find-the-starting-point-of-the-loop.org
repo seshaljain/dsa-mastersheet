@@ -1,3 +1,4 @@
 #+TITLE: Find the starting point of the loop
 #+AUTHOR: Seshal Jain
+#+TAGS[]: ll
 https://www.geeksforgeeks.org/find-first-node-of-loop-in-a-linked-list/

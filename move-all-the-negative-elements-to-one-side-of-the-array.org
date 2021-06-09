@@ -1,5 +1,6 @@
 #+TITLE: Move all the negative elements to one side of the array
 #+AUTHOR: Seshal Jain
+#+TAGS[]: array
 https://www.geeksforgeeks.org/move-negative-numbers-beginning-positive-end-constant-extra-space/
 
 Cases:

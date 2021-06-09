@@ -1,3 +1,4 @@
 #+TITLE: Intersection of two sorted linked list
 #+AUTHOR: Seshal Jain
+#+TAGS[]: ll
 https://practice.geeksforgeeks.org/problems/intersection-of-two-sorted-linked-lists/1

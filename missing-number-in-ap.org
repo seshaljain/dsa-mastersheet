@@ -1,3 +1,4 @@
 #+TITLE: Missing number in AP
 #+AUTHOR: Seshal Jain
+#+TAGS[]: search_sort
 https://practice.geeksforgeeks.org/problems/arithmetic-number/0

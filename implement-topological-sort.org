@@ -1,3 +1,4 @@
 #+TITLE: Implement topological sort
 #+AUTHOR: Seshal Jain
+#+TAGS[]: graph
 https://practice.geeksforgeeks.org/problems/topological-sort/1

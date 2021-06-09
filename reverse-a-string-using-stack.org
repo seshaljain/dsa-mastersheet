@@ -1,3 +1,4 @@
 #+TITLE: Reverse a string using stack
 #+AUTHOR: Seshal Jain
+#+TAGS[]: st_q
 https://practice.geeksforgeeks.org/problems/reverse-a-string-using-stack/1

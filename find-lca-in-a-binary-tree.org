@@ -1,3 +1,4 @@
 #+TITLE: Find LCA in a binary tree
 #+AUTHOR: Seshal Jain
+#+TAGS[]: bt
 https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-binary-tree/1

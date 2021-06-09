@@ -1,3 +1,4 @@
 #+TITLE: Find pairs with a given sum in a DLL
 #+AUTHOR: Seshal Jain
+#+TAGS[]: ll
 https://www.geeksforgeeks.org/find-pairs-given-sum-doubly-linked-list/

@@ -1,3 +1,4 @@
 #+TITLE: Construct a trie from scratch
 #+AUTHOR: Seshal Jain
+#+TAGS[]: trie
 https://www.geeksforgeeks.org/trie-insert-and-search/

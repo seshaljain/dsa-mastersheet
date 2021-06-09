@@ -1,3 +1,4 @@
 #+TITLE: Maximum sum rectangle in a 2D matrix
 #+AUTHOR: Seshal Jain
+#+TAGS[]: dp
 https://practice.geeksforgeeks.org/problems/maximum-sum-rectangle/0

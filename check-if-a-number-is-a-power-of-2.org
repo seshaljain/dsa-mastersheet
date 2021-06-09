@@ -1,3 +1,4 @@
 #+TITLE: Check if a number is a power of 2
 #+AUTHOR: Seshal Jain
+#+TAGS[]: bit
 https://practice.geeksforgeeks.org/problems/power-of-2/0

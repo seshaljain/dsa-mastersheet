@@ -1,3 +1,4 @@
 #+TITLE: Sudoku solver
 #+AUTHOR: Seshal Jain
+#+TAGS[]: backtracking
 https://practice.geeksforgeeks.org/problems/solve-the-sudoku/0

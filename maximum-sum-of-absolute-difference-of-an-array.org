@@ -1,3 +1,4 @@
 #+TITLE: Maximum sum of absolute difference of an array
 #+AUTHOR: Seshal Jain
+#+TAGS[]: greedy
 https://www.geeksforgeeks.org/maximum-sum-absolute-difference-array/

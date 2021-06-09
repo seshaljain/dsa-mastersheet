@@ -1,3 +1,4 @@
 #+TITLE: Kth smallest element in a row-column wise sorted matrix
 #+AUTHOR: Seshal Jain
+#+TAGS[]: matrix
 https://practice.geeksforgeeks.org/problems/kth-element-in-matrix/1

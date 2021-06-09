@@ -1,3 +1,4 @@
 #+TITLE: Merge two BST
 #+AUTHOR: Seshal Jain
+#+TAGS[]: bst
 https://www.geeksforgeeks.org/merge-two-balanced-binary-search-trees/

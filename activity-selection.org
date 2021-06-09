@@ -1,3 +1,4 @@
 #+TITLE: Activity selection
 #+AUTHOR: Seshal Jain
+#+TAGS[]: greedy
 https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room/0

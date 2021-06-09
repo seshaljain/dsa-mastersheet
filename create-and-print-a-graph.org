@@ -1,3 +1,4 @@
 #+TITLE: Create and print a graph
 #+AUTHOR: Seshal Jain
+#+TAGS[]: graph
 https://1drv.ms/t/s!AqTOHFO77CqEiRua06v1PATyiFg5

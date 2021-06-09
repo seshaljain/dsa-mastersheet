@@ -1,5 +1,6 @@
 #+TITLE: Chocolate distribution
 #+AUTHOR: Seshal Jain
+#+TAGS[]: array greedy
 https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem/0
 
 Make window in sorted array, check for minimum

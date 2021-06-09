@@ -1,3 +1,4 @@
 #+TITLE: Print unique rows in a given boolean matrix
 #+AUTHOR: Seshal Jain
+#+TAGS[]: trie
 https://practice.geeksforgeeks.org/problems/unique-rows-in-boolean-matrix/1

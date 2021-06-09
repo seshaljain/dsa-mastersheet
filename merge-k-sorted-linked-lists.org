@@ -1,3 +1,4 @@
 #+TITLE: Merge K sorted linked lists
 #+AUTHOR: Seshal Jain
+#+TAGS[]: ll heap
 https://practice.geeksforgeeks.org/problems/merge-k-sorted-linked-lists/1

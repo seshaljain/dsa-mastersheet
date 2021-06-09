@@ -1,3 +1,4 @@
 #+TITLE: Minimum cost to cut a board into squares
 #+AUTHOR: Seshal Jain
+#+TAGS[]: greedy
 https://www.geeksforgeeks.org/minimum-cost-cut-board-squares/

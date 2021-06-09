@@ -1,3 +1,4 @@
 #+TITLE: Find the smallest window that contains all characters of string itself
 #+AUTHOR: Seshal Jain
+#+TAGS[]: string
 https://practice.geeksforgeeks.org/problems/smallest-distant-window/0

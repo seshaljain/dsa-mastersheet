@@ -1,3 +1,4 @@
 #+TITLE: Transform one string to another using minimum number of given operation
 #+AUTHOR: Seshal Jain
+#+TAGS[]: string
 https://www.geeksforgeeks.org/transform-one-string-to-another-using-minimum-number-of-given-operation/

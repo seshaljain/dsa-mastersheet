@@ -1,5 +1,6 @@
 #+TITLE: Count and say
 #+AUTHOR: Seshal Jain
+#+TAGS[]: string
 https://leetcode.com/problems/count-and-say/
 
 #+begin_src cpp

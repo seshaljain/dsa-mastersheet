@@ -1,3 +1,4 @@
 #+TITLE: Implement a circular queue
 #+AUTHOR: Seshal Jain
+#+TAGS[]: st_q
 https://www.geeksforgeeks.org/circular-queue-set-1-introduction-array-implementation/

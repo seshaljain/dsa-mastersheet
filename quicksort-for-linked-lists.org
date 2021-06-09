@@ -1,3 +1,4 @@
 #+TITLE: Quicksort for linked lists
 #+AUTHOR: Seshal Jain
+#+TAGS[]: ll
 https://practice.geeksforgeeks.org/problems/quick-sort-on-linked-list/1

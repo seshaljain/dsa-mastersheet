@@ -1,3 +1,4 @@
 #+TITLE: Check if a binary tree contains duplicate subtrees of size 2 or more
 #+AUTHOR: Seshal Jain
+#+TAGS[]: bt
 https://practice.geeksforgeeks.org/problems/duplicate-subtree-in-binary-tree/1

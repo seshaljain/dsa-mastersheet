@@ -1,3 +1,4 @@
 #+TITLE: Check if binary tree is sum tree
 #+AUTHOR: Seshal Jain
+#+TAGS[]: bt
 https://practice.geeksforgeeks.org/problems/sum-tree/1

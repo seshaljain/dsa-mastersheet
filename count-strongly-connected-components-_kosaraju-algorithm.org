@@ -1,3 +1,4 @@
 #+TITLE: Count strongly connected components (Kosaraju algorithm)
 #+AUTHOR: Seshal Jain
+#+TAGS[]: graph
 https://practice.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-algo/1

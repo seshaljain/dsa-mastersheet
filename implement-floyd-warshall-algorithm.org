@@ -1,3 +1,4 @@
 #+TITLE: Implement Floyd Warshall algorithm
 #+AUTHOR: Seshal Jain
+#+TAGS[]: graph
 https://practice.geeksforgeeks.org/problems/implementing-floyd-warshall/0

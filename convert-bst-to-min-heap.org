@@ -1,3 +1,4 @@
 #+TITLE: Convert BST to min heap
 #+AUTHOR: Seshal Jain
+#+TAGS[]: heap
 https://www.geeksforgeeks.org/convert-bst-min-heap/

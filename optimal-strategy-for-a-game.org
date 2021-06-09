@@ -1,3 +1,4 @@
 #+TITLE: Optimal strategy for a game
 #+AUTHOR: Seshal Jain
+#+TAGS[]: dp
 https://practice.geeksforgeeks.org/problems/optimal-strategy-for-a-game/0

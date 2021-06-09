@@ -1,3 +1,4 @@
 #+TITLE: Merge overlapping intervals
 #+AUTHOR: Seshal Jain
+#+TAGS[]: st_q
 https://practice.geeksforgeeks.org/problems/overlapping-intervals/0

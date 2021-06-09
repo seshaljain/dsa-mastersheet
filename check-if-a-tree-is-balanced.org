@@ -1,3 +1,4 @@
 #+TITLE: Check if a tree is balanced
 #+AUTHOR: Seshal Jain
+#+TAGS[]: bt
 https://practice.geeksforgeeks.org/problems/check-for-balanced-tree/1

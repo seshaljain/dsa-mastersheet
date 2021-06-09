@@ -1,3 +1,4 @@
 #+TITLE: Find minimum swaps required to convert a binary tree into BST
 #+AUTHOR: Seshal Jain
+#+TAGS[]: bt
 https://www.geeksforgeeks.org/minimum-swap-required-convert-binary-tree-binary-search-tree/

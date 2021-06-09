@@ -1,3 +1,4 @@
 #+TITLE: Find duplicate characters in a string
 #+AUTHOR: Seshal Jain
+#+TAGS[]: string
 https://www.geeksforgeeks.org/print-all-the-duplicates-in-the-input-string/

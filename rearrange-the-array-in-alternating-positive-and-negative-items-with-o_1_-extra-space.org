@@ -1,3 +1,4 @@
 #+TITLE: Rearrange the array in alternating positive and negative items with O(1) extra space
 #+AUTHOR: Seshal Jain
+#+TAGS[]: array
 https://www.geeksforgeeks.org/rearrange-array-alternating-positive-negative-items-O(1)-extra-space/

@@ -1,3 +1,4 @@
 #+TITLE: Merge 2 sorted arrays
 #+AUTHOR: Seshal Jain
+#+TAGS[]: array search_sort
 https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays5135/1

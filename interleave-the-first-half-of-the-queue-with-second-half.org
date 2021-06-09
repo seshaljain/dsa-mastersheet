@@ -1,3 +1,4 @@
 #+TITLE: Interleave the first half of the queue with second half
 #+AUTHOR: Seshal Jain
+#+TAGS[]: st_q
 https://www.geeksforgeeks.org/interleave-first-half-queue-second-half/

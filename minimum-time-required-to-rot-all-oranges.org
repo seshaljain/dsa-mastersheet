@@ -1,3 +1,4 @@
 #+TITLE: Minimum time required to rot all oranges
 #+AUTHOR: Seshal Jain
+#+TAGS[]: st_q
 https://practice.geeksforgeeks.org/problems/rotten-oranges/0

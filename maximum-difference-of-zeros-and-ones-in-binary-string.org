@@ -1,3 +1,4 @@
 #+TITLE: Maximum difference of zeros and ones in binary string
 #+AUTHOR: Seshal Jain
+#+TAGS[]: dp
 https://practice.geeksforgeeks.org/problems/maximum-difference-of-zeros-and-ones-in-binary-string4111/1

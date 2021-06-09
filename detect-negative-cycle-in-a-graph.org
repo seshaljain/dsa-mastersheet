@@ -1,3 +1,4 @@
 #+TITLE: Detect negative cycle in a graph
 #+AUTHOR: Seshal Jain
+#+TAGS[]: graph
 https://www.geeksforgeeks.org/detect-negative-cycle-graph-bellman-ford/

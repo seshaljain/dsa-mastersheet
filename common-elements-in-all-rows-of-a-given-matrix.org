@@ -1,3 +1,4 @@
 #+TITLE: Common elements in all rows of a given matrix
 #+AUTHOR: Seshal Jain
+#+TAGS[]: matrix
 https://www.geeksforgeeks.org/common-elements-in-all-rows-of-a-given-matrix/

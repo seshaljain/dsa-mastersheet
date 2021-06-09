@@ -1,3 +1,4 @@
 #+TITLE: Longest alternating subsequence
 #+AUTHOR: Seshal Jain
+#+TAGS[]: dp
 https://practice.geeksforgeeks.org/problems/longest-alternating-subsequence/0

@@ -1,5 +1,6 @@
 #+TITLE: Diameter of a tree
 #+AUTHOR: Seshal Jain
+#+TAGS[]: bt
 https://practice.geeksforgeeks.org/problems/diameter-of-binary-tree/1
 
 #+begin_src cpp

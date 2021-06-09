@@ -1,3 +1,4 @@
 #+TITLE: Maximum sum increasing subsequence
 #+AUTHOR: Seshal Jain
+#+TAGS[]: dp
 https://practice.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence4749/1

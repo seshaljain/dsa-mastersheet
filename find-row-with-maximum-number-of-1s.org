@@ -1,3 +1,4 @@
 #+TITLE: Find row with maximum number of 1s
 #+AUTHOR: Seshal Jain
+#+TAGS[]: matrix
 https://practice.geeksforgeeks.org/problems/row-with-max-1s0023/1

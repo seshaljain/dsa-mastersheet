@@ -1,3 +1,4 @@
 #+TITLE: Find four elements that sum to a given value
 #+AUTHOR: Seshal Jain
+#+TAGS[]: search_sort
 https://practice.geeksforgeeks.org/problems/find-all-four-sum-numbers/0

@@ -1,3 +1,4 @@
 #+TITLE: Check preorder is valid
 #+AUTHOR: Seshal Jain
+#+TAGS[]: bst
 https://practice.geeksforgeeks.org/problems/preorder-to-postorder/0

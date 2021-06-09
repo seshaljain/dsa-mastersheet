@@ -1,5 +1,6 @@
 #+TITLE: Kadane's algorithm
 #+AUTHOR: Seshal Jain
+#+TAGS[]: array dp
 https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0
 
 DP without array

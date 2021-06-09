@@ -1,5 +1,6 @@
 #+TITLE: Postorder traversal of a tree
 #+AUTHOR: Seshal Jain
+#+TAGS[]: bt
 https://www.techiedelight.com/postorder-tree-traversal-iterative-recursive/
 
 Left, Right, Root

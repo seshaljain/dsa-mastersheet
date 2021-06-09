@@ -1,3 +1,4 @@
 #+TITLE: Top view of a tree
 #+AUTHOR: Seshal Jain
+#+TAGS[]: bt
 https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1

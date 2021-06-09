@@ -1,3 +1,4 @@
 #+TITLE: Longest possible route in a matrix with hurdles
 #+AUTHOR: Seshal Jain
+#+TAGS[]: backtracking
 https://www.geeksforgeeks.org/longest-possible-route-in-a-matrix-with-hurdles/

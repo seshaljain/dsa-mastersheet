@@ -1,3 +1,4 @@
 #+TITLE: Minimum step by knight
 #+AUTHOR: Seshal Jain
+#+TAGS[]: graph
 https://practice.geeksforgeeks.org/problems/steps-by-knight/0

@@ -1,3 +1,4 @@
 #+TITLE: Find a pair with a given difference
 #+AUTHOR: Seshal Jain
+#+TAGS[]: search_sort
 https://practice.geeksforgeeks.org/problems/find-pair-given-difference/0

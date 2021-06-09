@@ -1,3 +1,4 @@
 #+TITLE: Longest repeated subsequence
 #+AUTHOR: Seshal Jain
+#+TAGS[]: string dp
 https://practice.geeksforgeeks.org/problems/longest-repeating-subsequence/0

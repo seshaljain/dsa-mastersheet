@@ -1,5 +1,6 @@
 #+TITLE: Trapping rain water
 #+AUTHOR: Seshal Jain
+#+TAGS[]: array
 https://practice.geeksforgeeks.org/problems/trapping-rain-water/0
 
 Find lMax, rMax

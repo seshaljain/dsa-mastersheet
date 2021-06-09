@@ -1,3 +1,4 @@
 #+TITLE: Roti Prata
 #+AUTHOR: Seshal Jain
+#+TAGS[]: search_sort
 https://www.spoj.com/problems/PRATA/

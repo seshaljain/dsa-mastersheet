@@ -1,3 +1,4 @@
 #+TITLE: Subset sum aka Partitions
 #+AUTHOR: Seshal Jain
+#+TAGS[]: dp backtracking
 https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1

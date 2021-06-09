@@ -1,3 +1,4 @@
 #+TITLE: Detect cycle in directed graph using BFS/DFS
 #+AUTHOR: Seshal Jain
+#+TAGS[]: graph
 https://www.geeksforgeeks.org/detect-cycle-in-a-graph/

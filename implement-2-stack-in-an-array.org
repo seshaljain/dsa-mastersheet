@@ -1,3 +1,4 @@
 #+TITLE: Implement 2 stack in an array
 #+AUTHOR: Seshal Jain
+#+TAGS[]: st_q
 https://practice.geeksforgeeks.org/problems/implement-two-stacks-in-an-array/1

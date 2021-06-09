@@ -1,3 +1,4 @@
 #+TITLE: String matching where one string contains wildcard characters
 #+AUTHOR: Seshal Jain
+#+TAGS[]: string
 https://practice.geeksforgeeks.org/problems/wildcard-string-matching/0

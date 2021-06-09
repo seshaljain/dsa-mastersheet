@@ -1,5 +1,6 @@
 #+TITLE: Cyclically rotate an array by one
 #+AUTHOR: Seshal Jain
+#+TAGS[]: array
 https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one/0
 
 Also works for rotation by N elements

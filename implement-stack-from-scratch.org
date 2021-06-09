@@ -1,3 +1,4 @@
 #+TITLE: Implement stack from scratch
 #+AUTHOR: Seshal Jain
+#+TAGS[]: st_q
 https://www.tutorialspoint.com/javaexamples/data_stack.htm

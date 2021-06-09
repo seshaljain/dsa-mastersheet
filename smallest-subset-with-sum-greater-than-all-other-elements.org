@@ -1,3 +1,4 @@
 #+TITLE: Smallest subset with sum greater than all other elements
 #+AUTHOR: Seshal Jain
+#+TAGS[]: greedy
 https://www.geeksforgeeks.org/smallest-subset-sum-greater-elements/

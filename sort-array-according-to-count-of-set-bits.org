@@ -1,5 +1,6 @@
 #+TITLE: Sort array according to count of set bits
 #+AUTHOR: Seshal Jain
+#+TAGS[]: search_sort
 https://practice.geeksforgeeks.org/problems/sort-by-set-bit-count/0
 
 #+begin_src cpp

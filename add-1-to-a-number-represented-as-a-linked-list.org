@@ -1,3 +1,4 @@
 #+TITLE: Add 1 to a number represented as a linked list
 #+AUTHOR: Seshal Jain
+#+TAGS[]: ll
 https://practice.geeksforgeeks.org/problems/add-1-to-a-number-represented-as-linked-list/1

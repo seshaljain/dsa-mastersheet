@@ -1,3 +1,4 @@
 #+TITLE: Given an array of size N and a number K, find all elements that appear more than N/K times
 #+AUTHOR: Seshal Jain
+#+TAGS[]: array
 https://www.geeksforgeeks.org/given-an-array-of-of-size-n-finds-all-the-elements-that-appear-more-than-nk-times/

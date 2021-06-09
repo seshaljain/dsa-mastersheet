@@ -1,3 +1,4 @@
 #+TITLE: Find common elements in 3 sorted arrays
 #+AUTHOR: Seshal Jain
+#+TAGS[]: array
 https://practice.geeksforgeeks.org/problems/common-elements1132/1

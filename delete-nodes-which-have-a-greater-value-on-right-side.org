@@ -1,3 +1,4 @@
 #+TITLE: Delete nodes which have a greater value on right side
 #+AUTHOR: Seshal Jain
+#+TAGS[]: ll
 https://practice.geeksforgeeks.org/problems/delete-nodes-having-greater-value-on-right/1

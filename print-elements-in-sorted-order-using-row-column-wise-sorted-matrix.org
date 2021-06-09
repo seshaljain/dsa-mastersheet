@@ -1,3 +1,4 @@
 #+TITLE: Print elements in sorted order using row-column wise sorted matrix
 #+AUTHOR: Seshal Jain
+#+TAGS[]: matrix
 https://practice.geeksforgeeks.org/problems/sorted-matrix/0

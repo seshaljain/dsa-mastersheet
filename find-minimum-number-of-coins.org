@@ -1,3 +1,4 @@
 #+TITLE: Find minimum number of coins
 #+AUTHOR: Seshal Jain
+#+TAGS[]: greedy
 https://practice.geeksforgeeks.org/problems/coin-piles/0

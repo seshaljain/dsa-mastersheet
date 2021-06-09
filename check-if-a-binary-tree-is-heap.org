@@ -1,3 +1,4 @@
 #+TITLE: Check if a binary tree is heap
 #+AUTHOR: Seshal Jain
+#+TAGS[]: heap
 https://practice.geeksforgeeks.org/problems/is-binary-tree-heap/1

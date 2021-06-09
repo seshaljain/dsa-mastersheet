@@ -1,3 +1,4 @@
 #+TITLE: Median in a stream of integers
 #+AUTHOR: Seshal Jain
+#+TAGS[]: heap
 https://practice.geeksforgeeks.org/problems/find-median-in-a-stream/0

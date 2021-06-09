@@ -1,5 +1,6 @@
 #+TITLE: Check whether a string is a valid shuffle of two strings
 #+AUTHOR: Seshal Jain
+#+TAGS[]: string
 https://www.programiz.com/java-programming/examples/check-valid-shuffle-of-strings
 
 #+begin_src cpp

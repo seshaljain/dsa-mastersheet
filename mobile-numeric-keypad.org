@@ -1,3 +1,4 @@
 #+TITLE: Mobile numeric keypad
 #+AUTHOR: Seshal Jain
+#+TAGS[]: dp
 https://practice.geeksforgeeks.org/problems/mobile-numeric-keypad5456/1

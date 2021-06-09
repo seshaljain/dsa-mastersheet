@@ -1,3 +1,4 @@
 #+TITLE: Cheapest flights within K stops
 #+AUTHOR: Seshal Jain
+#+TAGS[]: graph
 https://leetcode.com/problems/cheapest-flights-within-k-stops/description/

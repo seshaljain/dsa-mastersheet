@@ -1,3 +1,4 @@
 #+TITLE: Implement queue from scratch
 #+AUTHOR: Seshal Jain
+#+TAGS[]: st_q
 https://www.geeksforgeeks.org/queue-set-1introduction-and-array-implementation/

@@ -1,3 +1,4 @@
 #+TITLE: Print all palindromic partitions of a string
 #+AUTHOR: Seshal Jain
+#+TAGS[]: backtracking
 https://www.geeksforgeeks.org/given-a-string-print-all-possible-palindromic-partition/

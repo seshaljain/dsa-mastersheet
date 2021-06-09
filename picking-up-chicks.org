@@ -1,3 +1,4 @@
 #+TITLE: Picking up chicks
 #+AUTHOR: Seshal Jain
+#+TAGS[]: greedy
 https://www.spoj.com/problems/GCJ101BB/

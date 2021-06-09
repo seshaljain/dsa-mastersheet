@@ -1,3 +1,4 @@
 #+TITLE: Populate inorder successor of all nodes
 #+AUTHOR: Seshal Jain
+#+TAGS[]: bst
 https://practice.geeksforgeeks.org/problems/populate-inorder-successor-for-all-nodes/1

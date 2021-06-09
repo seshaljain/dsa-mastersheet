@@ -1,3 +1,4 @@
 #+TITLE: Huffman coding
 #+AUTHOR: Seshal Jain
+#+TAGS[]: greedy
 https://practice.geeksforgeeks.org/problems/huffman-encoding/0

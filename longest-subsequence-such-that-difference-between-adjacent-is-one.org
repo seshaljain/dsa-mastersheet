@@ -1,3 +1,4 @@
 #+TITLE: Longest subsequence such that difference between adjacent is one
 #+AUTHOR: Seshal Jain
+#+TAGS[]: dp
 https://practice.geeksforgeeks.org/problems/longest-subsequence-such-that-difference-between-adjacents-is-one4724/1

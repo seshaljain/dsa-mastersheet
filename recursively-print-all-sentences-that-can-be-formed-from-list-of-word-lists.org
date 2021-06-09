@@ -1,3 +1,4 @@
 #+TITLE: Recursively print all sentences that can be formed from list of word lists
 #+AUTHOR: Seshal Jain
+#+TAGS[]: string
 https://www.geeksforgeeks.org/recursively-print-all-sentences-that-can-be-formed-from-list-of-word-lists/

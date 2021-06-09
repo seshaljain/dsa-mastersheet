@@ -1,3 +1,4 @@
 #+TITLE: Optimum location of point to minimize total distance
 #+AUTHOR: Seshal Jain
+#+TAGS[]: search_sort
 https://www.geeksforgeeks.org/optimum-location-point-minimize-total-distance/

@@ -1,3 +1,4 @@
 #+TITLE: Rotate DLL by N nodes
 #+AUTHOR: Seshal Jain
+#+TAGS[]: ll
 https://www.geeksforgeeks.org/rotate-doubly-linked-list-n-nodes/

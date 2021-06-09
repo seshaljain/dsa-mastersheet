@@ -1,3 +1,4 @@
 #+TITLE: Move the last element to front in a linked list
 #+AUTHOR: Seshal Jain
+#+TAGS[]: ll
 https://www.geeksforgeeks.org/move-last-element-to-front-of-a-given-linked-list/

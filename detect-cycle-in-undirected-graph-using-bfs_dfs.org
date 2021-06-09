@@ -1,3 +1,4 @@
 #+TITLE: Detect cycle in undirected graph using BFS/DFS
 #+AUTHOR: Seshal Jain
+#+TAGS[]: graph
 https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1

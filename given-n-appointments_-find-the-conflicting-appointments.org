@@ -1,3 +1,4 @@
 #+TITLE: Given N appointments, find the conflicting appointments
 #+AUTHOR: Seshal Jain
+#+TAGS[]: bst
 https://www.geeksforgeeks.org/given-n-appointments-find-conflicting-appointments/

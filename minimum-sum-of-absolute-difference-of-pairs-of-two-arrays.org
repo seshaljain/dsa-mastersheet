@@ -1,3 +1,4 @@
 #+TITLE: Minimum sum of absolute difference of pairs of two arrays
 #+AUTHOR: Seshal Jain
+#+TAGS[]: greedy
 https://www.geeksforgeeks.org/minimum-sum-absolute-difference-pairs-two-arrays/

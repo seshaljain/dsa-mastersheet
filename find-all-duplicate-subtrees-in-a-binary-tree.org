@@ -1,3 +1,4 @@
 #+TITLE: Find all duplicate subtrees in a binary tree
 #+AUTHOR: Seshal Jain
+#+TAGS[]: bt
 https://practice.geeksforgeeks.org/problems/duplicate-subtrees/1

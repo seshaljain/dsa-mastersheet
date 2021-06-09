@@ -1,3 +1,4 @@
 #+TITLE: Find the middle element of a stack
 #+AUTHOR: Seshal Jain
+#+TAGS[]: st_q
 https://www.geeksforgeeks.org/design-a-stack-with-find-middle-operation/

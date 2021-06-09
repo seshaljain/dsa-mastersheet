@@ -1,3 +1,4 @@
 #+TITLE: Boyer Moore algorithm for pattern searching
 #+AUTHOR: Seshal Jain
+#+TAGS[]: string
 https://www.geeksforgeeks.org/boyer-moore-algorithm-for-pattern-searching/

@@ -1,3 +1,4 @@
 #+TITLE: Merge 2 binary max heaps
 #+AUTHOR: Seshal Jain
+#+TAGS[]: heap
 https://practice.geeksforgeeks.org/problems/merge-two-binary-max-heap/0

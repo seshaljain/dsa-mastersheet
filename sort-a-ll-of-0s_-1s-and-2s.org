@@ -1,3 +1,4 @@
 #+TITLE: Sort a ll of 0s, 1s and 2s
 #+AUTHOR: Seshal Jain
+#+TAGS[]: ll
 https://practice.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1

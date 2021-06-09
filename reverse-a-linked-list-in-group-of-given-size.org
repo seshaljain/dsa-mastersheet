@@ -1,3 +1,4 @@
 #+TITLE: Reverse a linked list in group of given size
 #+AUTHOR: Seshal Jain
+#+TAGS[]: ll
 https://practice.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1

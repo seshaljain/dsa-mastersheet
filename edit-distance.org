@@ -1,3 +1,4 @@
 #+TITLE: Edit distance
 #+AUTHOR: Seshal Jain
+#+TAGS[]: string dp
 https://practice.geeksforgeeks.org/problems/edit-distance3702/1

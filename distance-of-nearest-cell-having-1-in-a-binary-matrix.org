@@ -1,3 +1,4 @@
 #+TITLE: Distance of nearest cell having 1 in a binary matrix
 #+AUTHOR: Seshal Jain
+#+TAGS[]: st_q
 https://practice.geeksforgeeks.org/problems/distance-of-nearest-cell-having-1/0

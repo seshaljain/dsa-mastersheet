@@ -1,3 +1,4 @@
 #+TITLE: Reverse an array
 #+AUTHOR: Seshal Jain
+#+TAGS[]: array
 https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/

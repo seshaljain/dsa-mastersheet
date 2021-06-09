@@ -1,3 +1,4 @@
 #+TITLE: Graph colouring
 #+AUTHOR: Seshal Jain
+#+TAGS[]: graph
 https://www.geeksforgeeks.org/graph-coloring-applications/

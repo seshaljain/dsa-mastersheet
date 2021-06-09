@@ -1,3 +1,4 @@
 #+TITLE: Arithmetic expression evaluation
 #+AUTHOR: Seshal Jain
+#+TAGS[]: st_q
 https://www.geeksforgeeks.org/arithmetic-expression-evalution/

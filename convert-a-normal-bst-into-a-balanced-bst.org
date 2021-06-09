@@ -1,3 +1,4 @@
 #+TITLE: Convert a normal BST into a balanced BST
 #+AUTHOR: Seshal Jain
+#+TAGS[]: bst
 https://www.geeksforgeeks.org/convert-normal-bst-balanced-bst/

@@ -1,5 +1,6 @@
 #+TITLE: Kth smallest number again
 #+AUTHOR: Seshal Jain
+#+TAGS[]: search_sort
 https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/kth-smallest-number-again-2/
 
 #+begin_src cpp

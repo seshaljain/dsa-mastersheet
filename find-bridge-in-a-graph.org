@@ -1,3 +1,4 @@
 #+TITLE: Find bridge in a graph
 #+AUTHOR: Seshal Jain
+#+TAGS[]: graph
 https://www.geeksforgeeks.org/bridge-in-a-graph/

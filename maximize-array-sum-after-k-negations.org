@@ -1,3 +1,4 @@
 #+TITLE: Maximize array sum after K negations
 #+AUTHOR: Seshal Jain
+#+TAGS[]: greedy
 https://practice.geeksforgeeks.org/problems/maximize-sum-after-k-negations/0

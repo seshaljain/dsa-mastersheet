@@ -1,3 +1,4 @@
 #+TITLE: Connect N ropes with minimum cost
 #+AUTHOR: Seshal Jain
+#+TAGS[]: heap greedy
 https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes/0

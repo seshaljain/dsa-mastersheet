@@ -1,3 +1,4 @@
 #+TITLE: Maximum sum such that no 2 elements are adjacent
 #+AUTHOR: Seshal Jain
+#+TAGS[]: search_sort
 https://practice.geeksforgeeks.org/problems/stickler-theif/0

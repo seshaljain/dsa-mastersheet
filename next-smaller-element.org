@@ -1,3 +1,4 @@
 #+TITLE: Next smaller element
 #+AUTHOR: Seshal Jain
+#+TAGS[]: st_q
 https://www.geeksforgeeks.org/next-smaller-element/

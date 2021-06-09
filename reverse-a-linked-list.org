@@ -1,5 +1,6 @@
 #+TITLE: Reverse a linked list
 #+AUTHOR: Seshal Jain
+#+TAGS[]: ll
 https://www.geeksforgeeks.org/reverse-a-linked-list/
 
 #+begin_src cpp

@@ -1,3 +1,4 @@
 #+TITLE: Largest area rectangular sub-matrix with equal number of 1s and 0s
 #+AUTHOR: Seshal Jain
+#+TAGS[]: dp
 https://www.geeksforgeeks.org/largest-area-rectangular-sub-matrix-equal-number-1s-0s/

@@ -1,3 +1,4 @@
 #+TITLE: Minimum edges to reverse o make path from source to destination
 #+AUTHOR: Seshal Jain
+#+TAGS[]: graph
 https://www.geeksforgeeks.org/minimum-edges-reverse-make-path-source-destination/

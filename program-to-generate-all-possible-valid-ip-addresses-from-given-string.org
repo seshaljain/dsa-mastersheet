@@ -1,3 +1,4 @@
 #+TITLE: Program to generate all possible valid IP addresses from given string
 #+AUTHOR: Seshal Jain
+#+TAGS[]: string
 https://www.geeksforgeeks.org/program-generate-possible-valid-ip-addresses-given-string/

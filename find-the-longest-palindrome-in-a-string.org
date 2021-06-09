@@ -1,3 +1,4 @@
 #+TITLE: Find the longest palindrome in a string
 #+AUTHOR: Seshal Jain
+#+TAGS[]: string
 https://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string/0

@@ -1,3 +1,4 @@
 #+TITLE: Evaluation of postfix expression
 #+AUTHOR: Seshal Jain
+#+TAGS[]: st_q
 https://practice.geeksforgeeks.org/problems/evaluation-of-postfix-expression/0

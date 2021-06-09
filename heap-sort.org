@@ -1,3 +1,4 @@
 #+TITLE: Heap sort
 #+AUTHOR: Seshal Jain
+#+TAGS[]: heap
 https://www.geeksforgeeks.org/heap-sort/

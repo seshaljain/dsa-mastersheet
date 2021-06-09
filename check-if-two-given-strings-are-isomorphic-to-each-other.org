@@ -1,3 +1,4 @@
 #+TITLE: Check if two given strings are isomorphic to each other
 #+AUTHOR: Seshal Jain
+#+TAGS[]: string
 https://practice.geeksforgeeks.org/problems/isomorphic-strings/0

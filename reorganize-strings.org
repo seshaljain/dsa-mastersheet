@@ -1,3 +1,4 @@
 #+TITLE: Reorganize strings
 #+AUTHOR: Seshal Jain
+#+TAGS[]: heap
 https://leetcode.com/problems/reorganize-string/

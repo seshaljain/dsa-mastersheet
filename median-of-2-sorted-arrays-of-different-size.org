@@ -1,3 +1,4 @@
 #+TITLE: Median of 2 sorted arrays of different size
 #+AUTHOR: Seshal Jain
+#+TAGS[]: array
 https://www.geeksforgeeks.org/median-of-two-sorted-arrays-of-different-sizes/

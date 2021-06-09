@@ -1,5 +1,6 @@
 #+TITLE: Find the duplicate in an array of N+1 integers
 #+AUTHOR: Seshal Jain
+#+TAGS[]: array
 https://leetcode.com/problems/find-the-duplicate-number/
 
 Floyd's Tortoise & hare algorithm

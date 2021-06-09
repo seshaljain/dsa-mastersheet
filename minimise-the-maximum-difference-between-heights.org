@@ -1,5 +1,6 @@
 #+TITLE: Minimise the maximum difference between heights
 #+AUTHOR: Seshal Jain
+#+TAGS[]: array
 https://practice.geeksforgeeks.org/problems/minimize-the-heights3351/1
 
 #+begin_src cpp

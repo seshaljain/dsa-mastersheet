@@ -1,3 +1,4 @@
 #+TITLE: Split a circular linked list into two halves
 #+AUTHOR: Seshal Jain
+#+TAGS[]: ll
 https://practice.geeksforgeeks.org/problems/split-a-circular-linked-list-into-two-halves/1

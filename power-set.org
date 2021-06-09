@@ -1,3 +1,4 @@
 #+TITLE: Power set
 #+AUTHOR: Seshal Jain
+#+TAGS[]: bit
 https://practice.geeksforgeeks.org/problems/power-set4302/1

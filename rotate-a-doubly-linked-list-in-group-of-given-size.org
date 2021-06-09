@@ -1,3 +1,4 @@
 #+TITLE: Rotate a doubly linked list in group of given size
 #+AUTHOR: Seshal Jain
+#+TAGS[]: ll
 https://www.geeksforgeeks.org/reverse-doubly-linked-list-groups-given-size/

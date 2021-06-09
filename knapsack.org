@@ -1,3 +1,4 @@
 #+TITLE: Knapsack
 #+AUTHOR: Seshal Jain
+#+TAGS[]: dp
 https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem/0
