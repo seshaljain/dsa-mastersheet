@@ -1,6 +1,6 @@
 #+TITLE: Check whether a string is palindrome
 #+AUTHOR: Seshal Jain
-#+TAGS[]: string
+#+TAGS[]: string done
 https://practice.geeksforgeeks.org/problems/palindrome-string0817/1
 
 #+begin_src cpp

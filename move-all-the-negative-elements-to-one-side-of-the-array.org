@@ -1,10 +1,10 @@
 #+TITLE: Move all the negative elements to one side of the array
 #+AUTHOR: Seshal Jain
-#+TAGS[]: array
+#+TAGS[]: array done
 https://www.geeksforgeeks.org/move-negative-numbers-beginning-positive-end-constant-extra-space/
 
 Cases:
-1. negative negative: ipostitive=1
+1. negative negative: i+=1
 2. positive negative: swap, i++, j--
 3. negative positive: j--
 4. positive positive: i++, j--

@@ -1,6 +1,6 @@
 #+TITLE: Level order traversal
 #+AUTHOR: Seshal Jain
-#+TAGS[]: bt
+#+TAGS[]: bt done
 https://practice.geeksforgeeks.org/problems/level-order-traversal/1
 
 1. root

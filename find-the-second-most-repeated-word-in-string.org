@@ -1,6 +1,6 @@
 #+TITLE: Find the second most repeated word in string
 #+AUTHOR: Seshal Jain
-#+TAGS[]: string
+#+TAGS[]: string done
 https://practice.geeksforgeeks.org/problems/second-most-repeated-string-in-a-sequence/0
 
 #+begin_src cpp

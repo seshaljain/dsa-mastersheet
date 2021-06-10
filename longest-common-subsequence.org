@@ -1,6 +1,6 @@
 #+TITLE: Longest common subsequence
 #+AUTHOR: Seshal Jain
-#+TAGS[]: string dp
+#+TAGS[]: string dp done
 https://practice.geeksforgeeks.org/problems/longest-common-subsequence/0
 
 #+begin_src cpp

@@ -1,6 +1,6 @@
 #+TITLE: Book allocation aka Painter's Partition
 #+AUTHOR: Seshal Jain
-#+TAGS[]: search_sort
+#+TAGS[]: search_sort done
 https://practice.geeksforgeeks.org/problems/allocate-minimum-number-of-pages/0
 
 #+begin_src cpp

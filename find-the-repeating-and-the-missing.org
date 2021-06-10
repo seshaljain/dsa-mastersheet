@@ -1,6 +1,6 @@
 #+TITLE: Find the repeating and the missing
 #+AUTHOR: Seshal Jain
-#+TAGS[]: search_sort
+#+TAGS[]: search_sort done
 https://practice.geeksforgeeks.org/problems/find-missing-and-repeating2512/1
 
 #+begin_src cpp

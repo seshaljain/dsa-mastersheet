@@ -1,6 +1,6 @@
 #+TITLE: Preorder traversal of a tree
 #+AUTHOR: Seshal Jain
-#+TAGS[]: bt
+#+TAGS[]: bt done
 https://www.techiedelight.com/preorder-tree-traversal-iterative-recursive/
 
 Root, Left, Right

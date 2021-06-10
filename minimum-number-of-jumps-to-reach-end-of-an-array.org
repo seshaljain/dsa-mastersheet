@@ -1,6 +1,6 @@
 #+TITLE: Minimum number of jumps to reach end of an array
 #+AUTHOR: Seshal Jain
-#+TAGS[]: array
+#+TAGS[]: array done
 https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps/0
 
 #+begin_src cpp

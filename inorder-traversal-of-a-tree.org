@@ -1,6 +1,6 @@
 #+TITLE: Inorder traversal of a tree
 #+AUTHOR: Seshal Jain
-#+TAGS[]: bt
+#+TAGS[]: bt done
 https://www.techiedelight.com/inorder-tree-traversal-iterative-recursive/
 
 Left, Root, Right

@@ -1,6 +1,6 @@
 #+TITLE: Number of flips to make binary string alternate
 #+AUTHOR: Seshal Jain
-#+TAGS[]: string
+#+TAGS[]: string done
 https://practice.geeksforgeeks.org/problems/min-number-of-flips/0
 
 #+begin_src cpp

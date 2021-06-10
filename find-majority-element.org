@@ -1,6 +1,6 @@
 #+TITLE: Find majority element
 #+AUTHOR: Seshal Jain
-#+TAGS[]: search_sort
+#+TAGS[]: search_sort done
 https://practice.geeksforgeeks.org/problems/majority-element/0
 
 Moore's voting algorithm

@@ -1,6 +1,6 @@
 #+TITLE: Fractional knapsack
 #+AUTHOR: Seshal Jain
-#+TAGS[]: greedy
+#+TAGS[]: greedy done
 https://practice.geeksforgeeks.org/problems/fractional-knapsack/0
 
 Left, Right, Root

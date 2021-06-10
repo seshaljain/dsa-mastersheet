@@ -1,6 +1,6 @@
 #+TITLE: Reverse a string
 #+AUTHOR: Seshal Jain
-#+TAGS[]: string
+#+TAGS[]: string done
 https://leetcode.com/problems/reverse-string/
 
 #+begin_src cpp

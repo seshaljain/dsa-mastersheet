@@ -1,6 +1,6 @@
 #+TITLE: Balanced parenthesis
 #+AUTHOR: Seshal Jain
-#+TAGS[]: string st_q
+#+TAGS[]: string st_q done
 https://practice.geeksforgeeks.org/problems/parenthesis-checker/0
 
 #+begin_src cpp

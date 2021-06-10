@@ -1,6 +1,6 @@
 #+TITLE: Searching in an array where adjacent differ by at most K
 #+AUTHOR: Seshal Jain
-#+TAGS[]: search_sort
+#+TAGS[]: search_sort done
 https://www.geeksforgeeks.org/searching-array-adjacent-differ-k/
 
 #+begin_src cpp

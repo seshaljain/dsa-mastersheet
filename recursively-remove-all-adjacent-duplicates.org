@@ -1,6 +1,6 @@
 #+TITLE: Recursively remove all adjacent duplicates
 #+AUTHOR: Seshal Jain
-#+TAGS[]: string
+#+TAGS[]: string done
 https://practice.geeksforgeeks.org/problems/consecutive-elements/0
 
 #+begin_src cpp

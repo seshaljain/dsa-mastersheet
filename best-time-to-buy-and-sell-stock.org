@@ -1,6 +1,6 @@
 #+TITLE: Best time to buy and sell stock
 #+AUTHOR: Seshal Jain
-#+TAGS[]: array
+#+TAGS[]: array done
 https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 
 One pass, just need to check the lowest valley/highest peak (and their difference)

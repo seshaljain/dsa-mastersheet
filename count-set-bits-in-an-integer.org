@@ -1,6 +1,6 @@
 #+TITLE: Count set bits in an integer
 #+AUTHOR: Seshal Jain
-#+TAGS[]: bit
+#+TAGS[]: bit done
 https://practice.geeksforgeeks.org/problems/set-bits0143/1
 
 #+begin_src cpp

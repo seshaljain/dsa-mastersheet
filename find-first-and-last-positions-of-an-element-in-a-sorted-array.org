@@ -1,6 +1,6 @@
 #+TITLE: Find first and last positions of an element in a sorted array
 #+AUTHOR: Seshal Jain
-#+TAGS[]: search_sort
+#+TAGS[]: search_sort done
 https://practice.geeksforgeeks.org/problems/first-and-last-occurrences-of-x/0
 
 #+begin_src cpp
